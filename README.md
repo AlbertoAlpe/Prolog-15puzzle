@@ -1,4 +1,4 @@
-# Porlog-15puzzle
+# Prolog-15puzzle
 A project developed for "Intelligenza Artificiale e Laboratorio" exam @ Università degli Studi di Torino, CS master's degree in Artificial Intelligence.
 
 An implementation of the 15-puzzle solver using informed search algorithms like IDA* in Prolog.  
